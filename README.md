@@ -1,2 +1,2 @@
 Practicing the use of hidden folders for API keys
-The secret folder showed up in the repo...\nNot sure why
+The secret folder showed up in the repo... Not sure why
